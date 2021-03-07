@@ -139,6 +139,7 @@ The amount of free resources that we can find today on the internet is often ove
 - Deep Learning with PyTorch: [Yann LeCun Deep Learning Course](https://atcold.github.io/pytorch-Deep-Learning/)
 - Kaggle Microcourses: [Kaggle Courses](https://www.kaggle.com/learn/overview)
 - Full Stack Deep Learning: [MIT Course](https://fullstackdeeplearning.com/)
+- Machine learning [udemy course](https://www.udemy.com/course/implementation-of-ml-algorithm-using-python/)
 
 #### 4. Data Science + Misc
 
